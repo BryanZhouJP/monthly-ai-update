@@ -1,0 +1,9 @@
+# Generated reports (output files)
+reports/ai-update-*.md
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/settings.json
